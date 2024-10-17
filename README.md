@@ -16,7 +16,7 @@ Visualization: Matplotlib, Seaborn, Plotly
 Databases: MySQL, PostgreSQL  
 Other Tools: Git, Jupyter Notebooks , Bash  
 
-📫 Let's Connect 
+📫 
 You can reach me on LinkedIn or via email at [gornisilvestrini@gmail.com].
 
 <!---
