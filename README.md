@@ -12,9 +12,10 @@ Here are a few highlights of what you can find in my repositories:
 Programming: Python, R, SQL, Golang  
 
 Data Science Libraries: pandas, NumPy, scikit-learn, TensorFlow, PyTorch 
+
 Visualization: Matplotlib, Seaborn, Plotly  
-Databases: MySQL, PostgreSQL  
-Other Tools: Git, Jupyter Notebooks , Bash  
+  
+Other Tools: Git, Jupyter Notebooks , Bash , mySQL
 
 📫 
 You can reach me on LinkedIn or via email at [gornisilvestrini@gmail.com].
