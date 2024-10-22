@@ -9,13 +9,13 @@ Here are a few highlights of what you can find in my repositories:
 [Project 3 Name]: (Similar description)  
 🛠 Skills & Tools
 
-Programming: Python, R, SQL, Golang  
+Programming: Python, R, SQL, Golang, Bash , mySQL
 
 Data Science Libraries: pandas, NumPy, scikit-learn, TensorFlow, PyTorch 
 
 Visualization: Matplotlib, Seaborn, Plotly  
   
-Other Tools: Git, Jupyter Notebooks , Bash , mySQL
+Other Tools: Git, Jupyter Notebooks , Colab
 
 📫 
 You can reach me on LinkedIn or via email at [gornisilvestrini@gmail.com].
