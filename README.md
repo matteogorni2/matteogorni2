@@ -1,13 +1,7 @@
 Hi there 👋
 I'm Matteo Gorni, a Data Science student currently finishing my Master's degree.This GitHub is a place where I showcase some of the projects I’ve worked on during my coursework.
 
-🔬 **Projects**
-
-Here are a few highlights of what you can find in my repositories:  
-[Project 1 Name]: (Brief description of the project, what tools/libraries you used, and the goal of the project)  
-[Project 2 Name]: (Similar description)  
-[Project 3 Name]: (Similar description)  
-🛠 Skills & Tools
+ Skills & Tools
 
 Programming: Python, R, SQL, Golang, Bash , mySQL
 
